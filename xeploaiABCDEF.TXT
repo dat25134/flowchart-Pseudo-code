@@ -1,0 +1,13 @@
+*Pseudo-code*
+begin
+input point
+if ((point>100) or (point <0)) then display " Nhập lại số điểm"
+    else if (point>=75) then display " Xếp loại A"
+        else if (point>=60) then display "Xep loại B"
+            else if (point>=45) then display "Xếp loại C"
+                else if (point>=35) then display "Xep loại D"
+                    else display " Xếp loại E"
+end
+
+*Flowchart*
+https://www.lucidchart.com/invitations/accept/d061fe59-a9cc-46d7-999f-a83e1811c0e4

@@ -1,0 +1,17 @@
+*Pseudo-code*
+begin
+max=0, i=1
+while (i<n)
+do {
+    input a[i]
+    i=i+1
+    }
+while (i<n)
+do  {
+    if a[i]>=max then max=a[i]
+    i=i+1
+    }
+display max
+end
+*Flowchart*
+https://www.lucidchart.com/invitations/accept/10ba9a8a-31b0-4d7b-88ba-2a589a1d381c

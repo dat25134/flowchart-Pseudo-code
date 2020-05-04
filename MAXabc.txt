@@ -1,0 +1,12 @@
+*Pseudo-code*
+begin
+input a,b,c
+if (a>b) then 
+        if(a>c) display "a la so lon nhat"
+        else diplay "c la so lon nhat"
+    else 
+        if(b>c) display "b la so lon nhat"
+        else diplay "c la so lon nhat"
+end
+*Flowchart*
+https://www.lucidchart.com/invitations/accept/10ba9a8a-31b0-4d7b-88ba-2a589a1d381c

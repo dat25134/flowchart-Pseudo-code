@@ -1,0 +1,8 @@
+*Pseudo-code*
+BEGIN
+INPUT d
+vnd=d*23000
+DISPLAY vnd
+END
+*Flowchart*
+https://www.lucidchart.com/invitations/accept/d061fe59-a9cc-46d7-999f-a83e1811c0e4

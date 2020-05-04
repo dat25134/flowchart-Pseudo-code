@@ -1,0 +1,9 @@
+*Pseudo-code*
+BEGIN
+INPUT math,physical,chemistry;
+average=(math+physical+chemistry)/3
+DISPLAY average
+END
+
+*flowchart*
+https://www.lucidchart.com/invitations/accept/80687572-ddde-4722-a5c1-42ac26000671
